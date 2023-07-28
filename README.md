@@ -1,10 +1,10 @@
 # CAESAR CIPHER
-#### A command line encrypting and decrypting application, 23 April 2022.
+#### A command line encrypting and decrypting application, 2023
 #### By **Kevin Onyango**
 ## Description
-This is a command line caesar cipher. A user can encrypt a message using the key provided. A user can also decrypt a message using the key.
+This is Caesar cipher. A user can encrypt a message using the key provided. A user can also decrypt a message using the key.
 ## Behaviour
-###  Our application should:
+###  The application should:
 * Encrypt messages typed in by the user.
 * Decrypt messages typed in by the user.
 ## Setup/Installation Requirements
