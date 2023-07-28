@@ -21,5 +21,5 @@ To date, there are no known bugs.
 ## Support and contact details
 drucilla.mumba@student.moringaschool.com
 ### License
-(c) 2022 DruSadeMumba, Moringa School.
-Licensed under [MIT License](LICENSE)
+(c) 2022 Kevin Onyango, Moringa School.
+Powered by M-PESA
